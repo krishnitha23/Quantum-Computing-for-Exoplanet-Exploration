@@ -17,9 +17,6 @@ This beginner research prototype explores how quantum computing concepts could b
 - NumPy and Matplotlib
 - Qiskit and Qiskit Aer
 
-## Important Note
-This is an educational prototype. The flagged observations are not confirmed planetary transits, and the quantum simulation does not establish quantum advantage or independently discover an exoplanet.
-
 ## Future Improvements
 - Validate candidate signals using established astronomical methods.
 - Compare classical and quantum-inspired search approaches.
